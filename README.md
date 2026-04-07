@@ -55,3 +55,5 @@ Produtos com maior valor agregado geram maior impacto na receita
 Baixe o arquivo .pbix disponível neste repositório
 Abra utilizando o Power BI Desktop
 Interaja com os filtros para explorar os dados
+
+<img width="659" height="398" alt="Screenshot_1" src="https://github.com/user-attachments/assets/50ff9e89-b738-4f16-8b87-362ec19dd95f" />
