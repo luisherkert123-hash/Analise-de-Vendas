@@ -26,10 +26,6 @@ Cidade
 Power BI
 Excel
 
-📊 Modelagem de Dados
-Foi criada uma métrica essencial para análise:
-Faturamento = Preço × Quantidade
-Essa métrica foi utilizada como base para todos os indicadores do dashboard.
 
 📈 Visualizações Desenvolvidas
 O dashboard foi estruturado com os seguintes elementos:
@@ -38,11 +34,11 @@ O dashboard foi estruturado com os seguintes elementos:
 
 📊 Gráfico de Barras: Produtos mais vendidos
 
-🥧 Gráfico de Pizza: Participação por categoria
+🥧 Gráfico de Pizza: Participação por Preço e Produtos
 
 🗺️ Tabela/Mapa: Vendas por cidade
 
-📅 Filtro (Slicer): Data
+📅 Filtro (Slicer): Categoria
 
 📊 Principais Insights
 
